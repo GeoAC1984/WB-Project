@@ -1,0 +1,33 @@
+Here are the steps for the implementation:
+1. for each country and year, convert pop rasters to points
+2. intersect pop points with urban extents and label intersecting points as urban,
+and not-intersecting as rural
+3. For each point, calculte distance to urban extents twice: once as distance to urban extents polygons (dist1) and once as distance to centroids of urban extents (dist2).
+3. compare the total urban pop for each country to UN's estimates; calculate the difference:
+
+		diff=(UN's urbanization rate*total pop)-pop of urban cells
+
+if difference is positive, select rural points within distance=0.0083333333*1 (dist1 in this case) of a grid (this raster pop resolution, so would be 
+equivivalent of 1 cell); check total pop of selected points; if it is smaller than diff, add those points as candidates to be flipped
+to urban; proceed to select points within distance=0.0083333333*2 and keep adding to the list of candidates...etc, 
+untill total pop of the selected points reaches the diff. For the last iterration, once condition pop_tot>=diff, 
+sort points in ascending order by distance to urban extents and in descending order by pop, start selecting 
+cells with smallest distance but higherst pop until the diff is reached. Flipp all the candidates to urban.
+
+if the difference is negative:
+sort urban points by dist2 in descending order and by pop in ascending order, select points with largest distance and smallest pop (farthest from
+urban core centroids and with smallest population) until reaching the absolute value of the diff and flip those selected urban points to rural.
+
+Write out as shapefiles separately urban and rural points.
+
+4. Spatially join each set of points (urban, rural) for each year (2000, 2010) to corresponding country grids. Write out as single shapefile for each country-grid.
+
+As a note: In writing out shapefile, I have miscalculated the length of the fields (>10 characters) and as a result last character is trancated: urb_pop2000 is urb_pop200 etc.
+
+The following countries are not done:
+Russia. Brazil, China. The datasets are too large for them and the script hangs every time it encounters one of this countries.
+
+In Central Africa region:
+Country Grids for CHAD are wrong
+
+Country with iso code TUV threw an exception, I will re-run the outputs for it.
