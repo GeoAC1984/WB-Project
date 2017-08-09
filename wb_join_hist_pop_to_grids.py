@@ -4,8 +4,9 @@ import pandas as pd
 import geopandas as gpd
 import os
 
-all_points=r'T:\WorldBankProject\HistoricPop_points\urban_rural_pop_points'
-grids_path=r'T:\WorldBankProject\HistoricPop_points\All_countries_grids'
+server='/Volumes/cidr_fs/Projects/NFS_SEES/WorldBankProject'
+all_points=os.path.join(server,'HistoricPop_points','urban_rural_pop_points')
+grids_path=os.path.join(server,'HistoricPop_points','All_countries_grids')
 country_grids=[grid for grid in os.listdir(grids_path) if grid.endswith('.shp')]
 rural_points=[p for p in os.listdir(all_points) if 'rur.shp' in p and p.endswith('.shp')]
 urban_points=[p for p in os.listdir(all_points) if 'urb.shp' in p and p.endswith('.shp')]
@@ -15,9 +16,9 @@ for grid in  country_grids:
     spj_dict[grid]=[f for f in combined if f[0:3].upper()==grid[0:3].upper()] 
 
 
-#test={'AFG_cells0125.shp':['afg_2000rur.shp', 'afg_2010rur.shp', 'afg_2000urb.shp', 'afg_2010urb.shp']}
-for k,v in spj_dict.items():
-    pop_grid_out=os.path.join(r'T:\WorldBankProject\HistoricPop\pop_fishnets',k[0:3]+'_fishnet.shp')
+brazil={'BRA_cells0125.shp':['bra_2000rur.shp', 'bra_2010rur.shp', 'bra_2000urb.shp', 'bra_2010urb.shp']}
+for k,v in brazil.items():
+    pop_grid_out=os.path.join(server,'HistoricPop','pop_fishnets',k[0:3]+'_fishnet.shp')
     pop_years=[]
     grid_shape=gpd.read_file(os.path.join(grids_path,k))
     grid_shape.crs={'init': u'epsg:4326'}
