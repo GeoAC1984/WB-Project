@@ -12,9 +12,11 @@ CropModels=[m for m in os.listdir(r'T:\WorldBankProject\Glob_Points\CropModels_8
 WaterModels=[m for m in os.listdir(r'T:\WorldBankProject\Glob_Points\WaterModels_8dec') if m.endswith('shp')]
 
 for region in regions_w_countries:
-    if region=='CentralAfrica':
-        print ('Processing region: ', region)  
-        for country in os.listdir(os.path.join(grids_path,region)):
+    print ('Processing region: ', region)
+    for country in os.listdir(os.path.join(grids_path,region)):
+        if country=='DRC':
+            pass
+        else:
             if os.listdir(os.path.join(grids_path,region,country,'WaterOutput'))==[]:
                 print ('working on ',country)
                 shapes=[shp for shp in os.listdir(os.path.join(grids_path,region,country,'CountryGrids')) if shp.endswith('shp')]
@@ -42,6 +44,17 @@ for region in regions_w_countries:
                     except ValueError:
                         print ("There is no ", water_model," points for this country: ", country)
                         break
+                    
+            if os.listdir(os.path.join(grids_path,region,country,'CropOutput'))==[]:
+                print ('working on ',country)
+                shapes=[shp for shp in os.listdir(os.path.join(grids_path,region,country,'CountryGrids')) if shp.endswith('shp')]
+                country_prefix=shapes[0].split('Cells')[0]
+                cell05=shapes[1]
+                cell025=shapes[0]
+                shp05=gpd.read_file(os.path.join(grids_path,region,country, 'CountryGrids',cell05))
+                shp025=gpd.read_file(os.path.join(grids_path,region,country, 'CountryGrids',cell025))
+                centers=gpd.GeoDataFrame(geometry=shp025.centroid)
+                    
                 for crop_model in CropModels:
                     shape_out=country_prefix+'_'+crop_model
                     model=gpd.read_file(os.path.join(r'T:\WorldBankProject\Glob_Points\CropModels_8dec',crop_model))
