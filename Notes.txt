@@ -1,4 +1,4 @@
-Here are the steps for the implementation:
+Here are the steps for the Historic Pop implementation:
 1. for each country and year, convert pop rasters to points
 2. intersect pop points with urban extents and label intersecting points as urban,
 and not-intersecting as rural

@@ -1,142 +1,184 @@
-Processing region:  Caribbean
-Cuba  in the  Caribbean  region is completed
-working on  Dominica
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Dominica
-DominicanRepublic  in the  Caribbean  region is completed
-working on  Grenada
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Grenada
-Haiti  in the  Caribbean  region is completed
-Jamaica  in the  Caribbean  region is completed
-working on  PuertoRico
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  PuertoRico
-working on  StLucia
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  StLucia
-working on  StVincent_Grenadines
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  StVincent_Grenadines
-Processing region:  CentralAfrica
-Angola  in the  CentralAfrica  region is completed
-Cameroon  in the  CentralAfrica  region is completed
-CAR  in the  CentralAfrica  region is completed
-Chad  in the  CentralAfrica  region is completed
-EquatorialGuinea  in the  CentralAfrica  region is completed
-Gabon  in the  CentralAfrica  region is completed
-RepCongo  in the  CentralAfrica  region is completed
-working on  SaoTomePrincipe
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  SaoTomePrincipe
-Processing region:  CentralAmerica
-Belize  in the  CentralAmerica  region is completed
-CostaRica  in the  CentralAmerica  region is completed
-ElSalvador  in the  CentralAmerica  region is completed
-Guatemala  in the  CentralAmerica  region is completed
-Honduras  in the  CentralAmerica  region is completed
-Mexico  in the  CentralAmerica  region is completed
-Nicaragua  in the  CentralAmerica  region is completed
-Panama  in the  CentralAmerica  region is completed
-Processing region:  CentralAsia
-Kazakhstan  in the  CentralAsia  region is completed
-Kyrgyzstan  in the  CentralAsia  region is completed
-Tajikstan  in the  CentralAsia  region is completed
-Turkmenistan  in the  CentralAsia  region is completed
-Uzbekistan  in the  CentralAsia  region is completed
-Processing region:  EastAfrica
-Burundi  in the  EastAfrica  region is completed
-working on  Comoros
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Comoros
-Djibouti  in the  EastAfrica  region is completed
-Eritrea  in the  EastAfrica  region is completed
-Ethiopia  in the  EastAfrica  region is completed
-Kenya  in the  EastAfrica  region is completed
-Madagascar  in the  EastAfrica  region is completed
-Malawi  in the  EastAfrica  region is completed
-working on  Mauritius
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Mauritius
-Mozambique  in the  EastAfrica  region is completed
-Rwanda  in the  EastAfrica  region is completed
-Somalia  in the  EastAfrica  region is completed
-Tanzania  in the  EastAfrica  region is completed
-Uganda  in the  EastAfrica  region is completed
-Zambia  in the  EastAfrica  region is completed
-Zimbabwe  in the  EastAfrica  region is completed
-Processing region:  EastAsia
-China  in the  EastAsia  region is completed
-Mongolia  in the  EastAsia  region is completed
-NorthKorea  in the  EastAsia  region is completed
-Processing region:  EasternEurope_Russia
-Albania  in the  EasternEurope_Russia  region is completed
-Armenia  in the  EasternEurope_Russia  region is completed
-Azerbaijan  in the  EasternEurope_Russia  region is completed
-Belarus  in the  EasternEurope_Russia  region is completed
-BosniaHerzegovina  in the  EasternEurope_Russia  region is completed
-Bulgaria  in the  EasternEurope_Russia  region is completed
-Georgia  in the  EasternEurope_Russia  region is completed
-Macedonia  in the  EasternEurope_Russia  region is completed
-Moldova  in the  EasternEurope_Russia  region is completed
-Montenegro  in the  EasternEurope_Russia  region is completed
-Romania  in the  EasternEurope_Russia  region is completed
-Russia  in the  EasternEurope_Russia  region is completed
-Serbia  in the  EasternEurope_Russia  region is completed
-Ukraine  in the  EasternEurope_Russia  region is completed
-Processing region:  MiddleEast
-Iraq  in the  MiddleEast  region is completed
-Jordan  in the  MiddleEast  region is completed
-Lebanon  in the  MiddleEast  region is completed
-Palestina  in the  MiddleEast  region is completed
-Syria  in the  MiddleEast  region is completed
-Turkey  in the  MiddleEast  region is completed
-Yemen  in the  MiddleEast  region is completed
-Processing region:  NorthAfrica
-Algeria  in the  NorthAfrica  region is completed
-Egypt  in the  NorthAfrica  region is completed
-Libya  in the  NorthAfrica  region is completed
-Morocco  in the  NorthAfrica  region is completed
-Sudan  in the  NorthAfrica  region is completed
-Tunisia  in the  NorthAfrica  region is completed
-working on  WesternSahara
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  WesternSahara
-Processing region:  Pacific
-working on  AmericanSamoa
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  AmericanSamoa
-working on  Fiji
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Fiji
-working on  Kiribati
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Kiribati
-working on  MarshallIslands
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  MarshallIslands
-working on  Micronesia
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Micronesia
-working on  NewCaledonia
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  NewCaledonia
-working on  Palau
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Palau
-working on  Samoa
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Samoa
-working on  SolomonIslands
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  SolomonIslands
-working on  Tonga
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Tonga
-working on  Tuvalu
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Tuvalu
-working on  Vanuatu
-There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Vanuatu
-Processing region:  SouthAmerica
-Argentina  in the  SouthAmerica  region is completed
-Bolivia  in the  SouthAmerica  region is completed
-Brazil  in the  SouthAmerica  region is completed
-Chile  in the  SouthAmerica  region is completed
-Colombia  in the  SouthAmerica  region is completed
-Ecuador  in the  SouthAmerica  region is completed
-FrenchGuiana  in the  SouthAmerica  region is completed
-Guyana  in the  SouthAmerica  region is completed
-Paraguay  in the  SouthAmerica  region is completed
-Peru  in the  SouthAmerica  region is completed
-Suriname  in the  SouthAmerica  region is completed
-Uruguay  in the  SouthAmerica  region is completed
-Venezuela  in the  SouthAmerica  region is completed
-Processing region:  SouthAsia
-Afghanistan  in the  SouthAsia  region is completed
-Bangladesh  in the  SouthAsia  region is completed
-Bhutan  in the  SouthAsia  region is completed
-India  in the  SouthAsia  region is completed
+('Processing region: ', 'Caribbean')
+('Cuba', ' in the ', 'Caribbean', ' region is completed')
+('working on ', 'Dominica')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Dominica')
+('DominicanRepublic', ' in the ', 'Caribbean', ' region is completed')
+('working on ', 'Grenada')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Grenada')
+('Haiti', ' in the ', 'Caribbean', ' region is completed')
+('Jamaica', ' in the ', 'Caribbean', ' region is completed')
+('working on ', 'PuertoRico')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'PuertoRico')
+('working on ', 'StLucia')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'StLucia')
+('working on ', 'StVincent_Grenadines')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'StVincent_Grenadines')
+('Processing region: ', 'CentralAfrica')
+('Angola', ' in the ', 'CentralAfrica', ' region is completed')
+('Cameroon', ' in the ', 'CentralAfrica', ' region is completed')
+('CAR', ' in the ', 'CentralAfrica', ' region is completed')
+('Chad', ' in the ', 'CentralAfrica', ' region is completed')
+('DRC', ' in the ', 'CentralAfrica', ' region is completed')
+('EquatorialGuinea', ' in the ', 'CentralAfrica', ' region is completed')
+('Gabon', ' in the ', 'CentralAfrica', ' region is completed')
+('RepCongo', ' in the ', 'CentralAfrica', ' region is completed')
+('working on ', 'SaoTomePrincipe')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'SaoTomePrincipe')
+('Processing region: ', 'CentralAmerica')
+('Belize', ' in the ', 'CentralAmerica', ' region is completed')
+('CostaRica', ' in the ', 'CentralAmerica', ' region is completed')
+('ElSalvador', ' in the ', 'CentralAmerica', ' region is completed')
+('Guatemala', ' in the ', 'CentralAmerica', ' region is completed')
+('Honduras', ' in the ', 'CentralAmerica', ' region is completed')
+('Mexico', ' in the ', 'CentralAmerica', ' region is completed')
+('Nicaragua', ' in the ', 'CentralAmerica', ' region is completed')
+('Panama', ' in the ', 'CentralAmerica', ' region is completed')
+('Processing region: ', 'CentralAsia')
+('Kazakhstan', ' in the ', 'CentralAsia', ' region is completed')
+('Kyrgyzstan', ' in the ', 'CentralAsia', ' region is completed')
+('Tajikstan', ' in the ', 'CentralAsia', ' region is completed')
+('Turkmenistan', ' in the ', 'CentralAsia', ' region is completed')
+('Uzbekistan', ' in the ', 'CentralAsia', ' region is completed')
+('Processing region: ', 'EastAfrica')
+('Burundi', ' in the ', 'EastAfrica', ' region is completed')
+('working on ', 'Comoros')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Comoros')
+('Djibouti', ' in the ', 'EastAfrica', ' region is completed')
+('Eritrea', ' in the ', 'EastAfrica', ' region is completed')
+('Ethiopia', ' in the ', 'EastAfrica', ' region is completed')
+('Kenya', ' in the ', 'EastAfrica', ' region is completed')
+('Madagascar', ' in the ', 'EastAfrica', ' region is completed')
+('Malawi', ' in the ', 'EastAfrica', ' region is completed')
+('working on ', 'Mauritius')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Mauritius')
+('Mozambique', ' in the ', 'EastAfrica', ' region is completed')
+('Rwanda', ' in the ', 'EastAfrica', ' region is completed')
+('Somalia', ' in the ', 'EastAfrica', ' region is completed')
+('Tanzania', ' in the ', 'EastAfrica', ' region is completed')
+('Uganda', ' in the ', 'EastAfrica', ' region is completed')
+('Zambia', ' in the ', 'EastAfrica', ' region is completed')
+('Zimbabwe', ' in the ', 'EastAfrica', ' region is completed')
+('Processing region: ', 'EastAsia')
+('China', ' in the ', 'EastAsia', ' region is completed')
+('Mongolia', ' in the ', 'EastAsia', ' region is completed')
+('NorthKorea', ' in the ', 'EastAsia', ' region is completed')
+('Processing region: ', 'EasternEurope_Russia')
+('Albania', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Armenia', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Azerbaijan', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Belarus', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('BosniaHerzegovina', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Bulgaria', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Georgia', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Macedonia', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Moldova', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Montenegro', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Romania', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Russia', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Serbia', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Ukraine', ' in the ', 'EasternEurope_Russia', ' region is completed')
+('Processing region: ', 'MiddleEast')
+('Iraq', ' in the ', 'MiddleEast', ' region is completed')
+('Jordan', ' in the ', 'MiddleEast', ' region is completed')
+('Lebanon', ' in the ', 'MiddleEast', ' region is completed')
+('Palestina', ' in the ', 'MiddleEast', ' region is completed')
+('Syria', ' in the ', 'MiddleEast', ' region is completed')
+('Turkey', ' in the ', 'MiddleEast', ' region is completed')
+('Yemen', ' in the ', 'MiddleEast', ' region is completed')
+('Processing region: ', 'NorthAfrica')
+('Algeria', ' in the ', 'NorthAfrica', ' region is completed')
+('Egypt', ' in the ', 'NorthAfrica', ' region is completed')
+('Libya', ' in the ', 'NorthAfrica', ' region is completed')
+('Morocco', ' in the ', 'NorthAfrica', ' region is completed')
+('Sudan', ' in the ', 'NorthAfrica', ' region is completed')
+('Tunisia', ' in the ', 'NorthAfrica', ' region is completed')
+('working on ', 'WesternSahara')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'WesternSahara')
+('Processing region: ', 'Pacific')
+('working on ', 'AmericanSamoa')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'AmericanSamoa')
+('working on ', 'Fiji')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Fiji')
+('working on ', 'Kiribati')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Kiribati')
+('working on ', 'MarshallIslands')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'MarshallIslands')
+('working on ', 'Micronesia')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Micronesia')
+('working on ', 'NewCaledonia')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'NewCaledonia')
+('working on ', 'Palau')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Palau')
+('working on ', 'Samoa')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Samoa')
+('working on ', 'SolomonIslands')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'SolomonIslands')
+('working on ', 'Tonga')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Tonga')
+('working on ', 'Tuvalu')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Tuvalu')
+('working on ', 'Vanuatu')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Vanuatu')
+('Processing region: ', 'SouthAmerica')
+('Argentina', ' in the ', 'SouthAmerica', ' region is completed')
+('Bolivia', ' in the ', 'SouthAmerica', ' region is completed')
+('Brazil', ' in the ', 'SouthAmerica', ' region is completed')
+('Chile', ' in the ', 'SouthAmerica', ' region is completed')
+('Colombia', ' in the ', 'SouthAmerica', ' region is completed')
+('Ecuador', ' in the ', 'SouthAmerica', ' region is completed')
+('FrenchGuiana', ' in the ', 'SouthAmerica', ' region is completed')
+('Guyana', ' in the ', 'SouthAmerica', ' region is completed')
+('Paraguay', ' in the ', 'SouthAmerica', ' region is completed')
+('Peru', ' in the ', 'SouthAmerica', ' region is completed')
+('Suriname', ' in the ', 'SouthAmerica', ' region is completed')
+('Uruguay', ' in the ', 'SouthAmerica', ' region is completed')
+('Venezuela', ' in the ', 'SouthAmerica', ' region is completed')
+('Processing region: ', 'SouthAsia')
+('Afghanistan', ' in the ', 'SouthAsia', ' region is completed')
+('Bangladesh', ' in the ', 'SouthAsia', ' region is completed')
+('Bhutan', ' in the ', 'SouthAsia', ' region is completed')
+('India', ' in the ', 'SouthAsia', ' region is completed')
+('Iran', ' in the ', 'SouthAsia', ' region is completed')
+('working on ', 'Maldives')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'Maldives')
+('Nepal', ' in the ', 'SouthAsia', ' region is completed')
+('Pakistan', ' in the ', 'SouthAsia', ' region is completed')
+('Sri_Lanka', ' in the ', 'SouthAsia', ' region is completed')
+('Processing region: ', 'SoutheastAsia')
+('Cambodia', ' in the ', 'SoutheastAsia', ' region is completed')
+('EastTimor', ' in the ', 'SoutheastAsia', ' region is completed')
+('Indonesia', ' in the ', 'SoutheastAsia', ' region is completed')
+('Laos', ' in the ', 'SoutheastAsia', ' region is completed')
+('Malaysia', ' in the ', 'SoutheastAsia', ' region is completed')
+('Myanmar', ' in the ', 'SoutheastAsia', ' region is completed')
+('PapuaNewGuinea', ' in the ', 'SoutheastAsia', ' region is completed')
+('Philippines', ' in the ', 'SoutheastAsia', ' region is completed')
+('Thailand', ' in the ', 'SoutheastAsia', ' region is completed')
+('Vietnam', ' in the ', 'SoutheastAsia', ' region is completed')
+('Processing region: ', 'SouthernAfrica')
+('Botswana', ' in the ', 'SouthernAfrica', ' region is completed')
+('Lesotho', ' in the ', 'SouthernAfrica', ' region is completed')
+('Namibia', ' in the ', 'SouthernAfrica', ' region is completed')
+('SouthAfrica', ' in the ', 'SouthernAfrica', ' region is completed')
+('Swaziland', ' in the ', 'SouthernAfrica', ' region is completed')
+('Processing region: ', 'WestAfrica')
+('Benin', ' in the ', 'WestAfrica', ' region is completed')
+('BurkinaFaso', ' in the ', 'WestAfrica', ' region is completed')
+('working on ', 'CapeVerde')
+('There is no ', 'gepic_hadgem2_rcp2p6.shp', ' points for this country: ', 'CapeVerde')
+('CotedIvoire', ' in the ', 'WestAfrica', ' region is completed')
+('Gambia', ' in the ', 'WestAfrica', ' region is completed')
+('Ghana', ' in the ', 'WestAfrica', ' region is completed')
+('Guinea', ' in the ', 'WestAfrica', ' region is completed')
+('Guinea-Bissau', ' in the ', 'WestAfrica', ' region is completed')
+('Liberia', ' in the ', 'WestAfrica', ' region is completed')
+('Mali', ' in the ', 'WestAfrica', ' region is completed')
+('Mauritania', ' in the ', 'WestAfrica', ' region is completed')
+('Niger', ' in the ', 'WestAfrica', ' region is completed')
+('Nigeria', ' in the ', 'WestAfrica', ' region is completed')
+('Senegal', ' in the ', 'WestAfrica', ' region is completed')
+('SierraLeone', ' in the ', 'WestAfrica', ' region is completed')
+('Togo', ' in the ', 'WestAfrica', ' region is completed')
 Iran  in the  SouthAsia  region is completed
 working on  Maldives
 There is no  gepic_hadgem2_rcp2p6.shp  points for this country:  Maldives
